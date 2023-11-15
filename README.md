@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div class="tenor-gif-embed" data-postid="20353294" data-share-method="host" data-aspect-ratio="0.715625" data-width="100%"><a href="https://tenor.com/view/peppo-dance-programming-gif-20353294">Peppo Dance Sticker</a>from <a href="https://tenor.com/search/peppo-stickers">Peppo Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/bxyY6.gif)https://tenor.com/bxyY6.gif" width="100"/>
 </div>
