@@ -6,6 +6,7 @@
 
 <div id="header" align="center">
     <img src="https://komarev.com/ghpvc/?username=DmitriyVladarchuk&style=flat-square&color=blue" alt=""/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyVladarchuk&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ### :fire: My Stats :
