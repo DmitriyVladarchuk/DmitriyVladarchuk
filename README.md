@@ -10,7 +10,7 @@
 
 ### :fire: My Stats :
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmitriyVladarchuk&repo=github-readme-stats&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmitriyVladarchuk&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DmitriyVladarchuk&layout=donut-vertical&theme=vision-friendly-dark" />
