@@ -16,7 +16,7 @@
 </div>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img heigh="300" src="https://github-readme-stats.vercel.app/api?username=DmitriyVladarchuk&show_icons=true&theme=transparent" />
+    <img heigh="350" src="https://github-readme-stats.vercel.app/api?username=DmitriyVladarchuk&show_icons=true&theme=transparent" />
   </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DmitriyVladarchuk&layout=donut&theme=transparent" />
