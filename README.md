@@ -9,4 +9,4 @@
 </div>
 
 ### :fire: My Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyVladarchuk&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyVladarchuk&langs_count=8)
