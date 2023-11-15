@@ -6,8 +6,14 @@
 
 <div id="header" align="center">
     <img src="https://komarev.com/ghpvc/?username=DmitriyVladarchuk&style=flat-square&color=blue" alt=""/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyVladarchuk&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyVladarchuk&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DmitriyVladarchuk" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DmitriyVladarchuk&layout=compact&langs_count=8&card_width=320" />
+</a>
